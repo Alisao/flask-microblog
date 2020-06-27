@@ -75,3 +75,4 @@ sqlalchemy.exc.IntegrityError: (sqlite3.IntegrityError) UNIQUE constraint failed
 [parameters: ('alisao', '', 2)]
 (Background on this error at: http://sqlalche.me/e/gkpj)
 2020-06-27 23:24:56,216 INFO: Microblog startup [in /home/alberto/Projects/TUTORIALS/Python/blog.miguelgrinberg.com/app/__init__.py:44]
+2020-06-27 23:39:47,508 INFO: Microblog startup [in /home/alberto/Projects/TUTORIALS/Python/blog.miguelgrinberg.com/app/__init__.py:44]
