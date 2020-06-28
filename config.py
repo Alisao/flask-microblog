@@ -20,4 +20,4 @@ class Config(object):
     ADMINS = ['quenchy12@gmail.com']
 
     # models
-    POSTS_PER_PAGE = 3
+    POSTS_PER_PAGE = 25
